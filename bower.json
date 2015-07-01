@@ -1,8 +1,5 @@
 {
   "name": "jquery-smooth-scroll",
-  "dependencies": {
-    "jquery": ">=1.3"
-  },
   "main": "jquery.smooth-scroll.js",
   "ignore": [
     "demo/",
